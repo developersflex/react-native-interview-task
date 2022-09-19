@@ -1,19 +1,21 @@
 # FLEX BUSINESS SOLUTIONS Tech Test - Shopping Prod
 
+In Flex Business Solutions, we aim to provide excellence and efficiency on all our lines of code in order to support the day-to-day activities of the company using our software solutions. In this task, you will be provided with a simple design of an app, fetching a list of products from an external source and allowing the user to search or filter among the list.
 
+[FIGMA] [https://www.figma.com/file/maZpfaMljUHkPHlz6Iq2AP/ReactNative-Test?node-id=0%3A1]
 
-We prefer:
+We love to see:
 - Functional code
 - Good design
 - Unit testing
 
 
 ### Notes
-All of you work should take place inside the repository
+All of you work should take place inside this repository.
 
-You do not need to add additional security measures as part of this exercise.
 You are free to use any packages that would help with this task
 
+You do not need to add additional security measures as part of this exercise.
 We're interested in how you break down the work and build your solution in a clean, easy-to-use, reusable and testable manner.
 
 ### USE THIS API
@@ -25,7 +27,13 @@ Products - https://dummyjson.com/products
 
 Use Postman or any API tool of you choice to explore the API before starting to use it.
 
+
 ## Deliverables
+You must follow the Figma design and need to add the functionality of:
+a) Search the products using the search bar
+b) Filter the products based on brand and category by clicking the filter button
+
+**Create a folder inside the repository and include finished screenshots of the app.**
 **Please make sure to update the readme with**:
 
 - How to run your app with all the necessary details
